@@ -1,2 +1,4 @@
 my exam
 dated 8 jul 2025
+time 10 am
+held online
